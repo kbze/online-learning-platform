@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150">
+  <defs>
+    <style>
+      .cls-1 { fill: #000000; }
+    </style>
+  </defs>
+
+  <g transform="translate(20, 25)">
+    
+    <path class="cls-1" d="M 60,0 L 105,45 L 90,60 L 90,75 L 105,90 L 60,135 L 15,90 L 30,75 L 30,60 L 15,45 Z M 60,25 L 35,50 L 50,65 L 60,55 L 70,65 L 85,50 Z M 60,110 L 85,85 L 70,70 L 60,80 L 50,70 L 35,85 Z" />
+    
+    <rect x="55" y="60" width="10" height="15" fill="#000000" />
+    <path class="cls-1" d="M 30,60 L 45,60 L 45,75 L 30,75 Z" />
+    <path class="cls-1" d="M 75,60 L 90,60 L 90,75 L 75,75 Z" />
+
+    <g transform="translate(130, 95)">
+      <text font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="80" fill="#000000" letter-spacing="-2">kbze.</text>
+    </g>
+  </g>
+</svg>
